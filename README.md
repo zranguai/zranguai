@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 + <zranguai@gmail.com>
 
 <details>
-<summary>Training</summary>
+<summary>🌟Stats & Languages</summary>
 
 [![zranguai's github stats](https://github-readme-stats.vercel.app/api?username=zranguai)](https://github.com/zranguai/github-readme-stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zranguai&theme=light&layout=compact)
