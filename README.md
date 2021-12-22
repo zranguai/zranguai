@@ -1,13 +1,13 @@
 ### Hi there, I'm zranguai 😄
 
-<img src="dino.gif" alt="Hello world">
-
 <!--
+<img src="dino.gif" alt="Hello world">
+-->
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/zranguai/count.svg" />
 </p>
--->
 
 <!--
 **zranguai/zranguai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
